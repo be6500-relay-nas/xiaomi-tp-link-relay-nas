@@ -1,3 +1,5 @@
+<div align="right"><img src="assets/be6500-relay-nas-icon-512.png" width="96" alt="be6500-relay-nas"></div>
+
 # 小米 BE6500 Pro (RD08) 校园网中继 + NAS 全链路指南
 
 > 自有设备的完整改造实录：**SSH 解锁 → 校园网 WISP 中继 → NAT 共享 → 代理注入 → TP-Link 子路由 → alist NAS → Tailscale 外网访问 → 稳定性治理**。
